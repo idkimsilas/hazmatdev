@@ -1,0 +1,5 @@
+target/
+*.blk
+*.bin
+!msfat32-blobs/*.bin
+
